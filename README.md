@@ -1,6 +1,6 @@
-## author: Li Kai 
-### type: course project record (swufe)
+## Author: Li Kai 
+### Type: course project record (swufe)
 
 
-### course name :finance intelligence 
+### Course name :finance intelligence 
 
