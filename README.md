@@ -1,8 +1,10 @@
 # Author: Li Kai 
-## Type: course project record (swufe)
+## Type: course project record
 
 
-### Course name :finance intelligence 
+### Project name :
+
+[multi-fators model in the cross-section of Chinese stocks returns]
 
 [final_project_intelligence.pdf](http://nanyong.github.io/final_project.pdf)
 
