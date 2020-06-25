@@ -5,8 +5,8 @@
 ### Project name :
 
 [Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf](http://nanyong.github.io/Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf)
-[Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf](http://nanyong.github.io/Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf)
-[final_project_intelligence.pdf](http://nanyong.github.io/final_project.pdf)
+[Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf](multi-factor model based on emotion effect in Chinese Stock Market.pdf)
+
 
 [final_project_intelligence.pdf](http://nanyong.github.io/final_project.pdf)
 
