@@ -3,7 +3,7 @@
 ### Project name : #2022-07更新
 ## Type: 实习项目经历、答辩项目
 
-
+[安信证券实习录用答辩PPT-基金产品的风格归因、标注及风格漂移.pdf](http://nanyong.github.io/李楷面试答辩报告：课题一.pdf)
 ---
 
 ### Project name : #2019-12更新
