@@ -1,4 +1,6 @@
-# Author 作者: 李楷 Li Kai 19102860593 likaiwork569@163.com
+# Author 作者: 李楷 Li Kai 
+19102860593 
+likaiwork569@163.com
 ### 擅长：基金研究 投研自动化 业绩归因
 ### 已过FRM二级、CFA一级
 ### 2022毕业生已入职安信证券金融产品部
