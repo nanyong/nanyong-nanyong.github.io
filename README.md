@@ -13,6 +13,17 @@ likaiwork569@163.com
 [个人简历-202207.pdf](http://nanyong.github.io/李楷_西南财经大学_金融学_硕士_2022在职_19102860593.pdf)
 
 ---
+### Woring Project name :正在进行迭代的项目 《自动化投研系列》
+1.资产配置模型
+
+  [风险平价模型初测试.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
+
+2.基金档案 V0.1
+#### 目前进行到净值类信息迭代
+
+  [半夏-基金档案结果-2022-08-01.pdf](http://nanyong.github.io/半夏-基金档案结果-2022-08-01.pdf)
+  [常春藤-基金档案结果-2022-08-01.pdf](http://nanyong.github.io/常春藤-基金档案结果-2022-08-01.pdf)
+---
 
 ### Project name : 一、实习项目结果展示
 #2022-07更新
