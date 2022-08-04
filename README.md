@@ -29,31 +29,31 @@ likaiwork569@163.com
 #2022-07更新
 
 
-[实习项目产出结果-基金画线能力（稳健收益）评价。（还需要结合换手率判别，一般认为高换手画线能力不可持续）-202206](http://nanyong.github.io/2022-06-06净值线性拟合部分结果脱敏.pdf)
+1.[实习项目产出结果-基金画线能力（稳健收益）评价。（还需要结合换手率判别，一般认为高换手画线能力不可持续）-202206](http://nanyong.github.io/2022-06-06净值线性拟合部分结果脱敏.pdf)
 
+
+2.基金的跟踪池经正态分布重映射后计算历史三年综合绩效排名的筛选结果，用于绩效初筛判断:
+2.1 PPT原理阐述
+[证券实习答辩PPT-基金产品绩效评价（策略重分类正态映射）、画线派能力衡量-202206](李楷实习汇报202206-基金绩效评价.pdf)
+
+2.2 PDF输出结果
 [实习项目产出结果-基金的跟踪池经正态分布重映射后计算历史三年综合绩效排名的筛选结果，用于绩效初筛判断-202206](http://nanyong.github.io/筛选结果-股票量化中性.pdf)
-
 
 ---
 
 ### Project name : 二、实习答辩项目
 #2022-06更新
 
-[证券实习答辩PPT-基金产品绩效评价（策略重分类正态映射）、画线派能力衡量-202206](李楷实习汇报202206-基金绩效评价.pdf)
 
+#### 1. [证券实习校招录用答辩PPT-基金产品的风格归因、标注及风格漂移-202110](http://nanyong.github.io/李楷面试答辩报告：课题一.pdf)
 
-#### [证券实习校招录用答辩PPT-基金产品的风格归因、标注及风格漂移-202110](http://nanyong.github.io/李楷面试答辩报告：课题一.pdf)
-
-
-[证券实习答辩PPT-基金产品的持仓跟踪、风格评价-202107](http://nanyong.github.io/HFOF的持仓跟踪、风格评价.pdf)
-
+2.[证券实习答辩PPT-基金产品的持仓跟踪、风格评价-202107](http://nanyong.github.io/HFOF的持仓跟踪、风格评价.pdf)
 
 ---
 
 ### Project name : 三、课程论文
 #2019-12更新
 ## Type: course project record
-
 
 [Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf](http://nanyong.github.io/multi-factor model based on emotion effect in Chinese Stock Market.pdf)
 
