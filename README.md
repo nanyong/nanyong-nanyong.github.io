@@ -27,9 +27,9 @@ likaiwork569@163.com
   
   [X来德-基金档案结果-2022-08-08.pdf](http://nanyong.github.io/浦来德-基金档案结果-2022-08-08.pdf)
   
-2.资产配置模型（）
+2.资产配置模型
 
-  [风险平价模型简单初测试.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
+  [风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
   
 ---
 
