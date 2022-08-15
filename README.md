@@ -29,8 +29,19 @@ likaiwork569@163.com
   
 2.资产配置模型
 
-  [风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
+  2.1 # 2022。08更新
+  ![image](http://nanyong.github.io/1.jpg)
   
+  ![image](http://nanyong.github.io/2.jpg)
+  
+  ![image](http://nanyong.github.io/3.jpg)
+  
+  ![image](http://nanyong.github.io/4.jpg)
+  
+  废弃.[风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
+
+
+
 ---
 
 ### Project name : 一、实习项目结果展示
