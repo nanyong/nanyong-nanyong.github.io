@@ -29,13 +29,13 @@ likaiwork569@163.com
   
 2.资产配置模型
 
-  2.1 # 2022。08更新
+  2.1 # 202208更新
   ![image](http://nanyong.github.io/1.jpg)
-  
-  ![image](http://nanyong.github.io/2.jpg)
-  
   ![image](http://nanyong.github.io/3.jpg)
   
+  对8类大类资产，分别使用等权重EW、风险平价模型以及若干风险平价改进模型（主成分风险平价模型 HPCRP、半衰主成分风险平价模型 HPCRP、引入预期走势估计改进的主成分风险平价模型等）
+  
+  ![image](http://nanyong.github.io/2.jpg)
   ![image](http://nanyong.github.io/4.jpg)
   
   废弃.[风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
