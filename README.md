@@ -34,7 +34,8 @@ likaiwork569@163.com
   ![image](http://nanyong.github.io/1.jpg)
   ![image](http://nanyong.github.io/3.jpg)
   
-  测试结果如下，结果来看，半衰主成分风险平价模型表现从稳健度和收益维度综合考量较好，等权重的优势在于收益能力强
+  测试结果如下，结果来看，在被动型管理的模型中，半衰主成分风险平价模型表现从稳健度和收益维度综合考量较好，等权重的优势在于收益能力强。
+  而引入技术分析的走势择时模型TF-PCRP在sharpe比率，控回撤方面具有巨大的优势。
   
   ![image](http://nanyong.github.io/2.jpg)
   ![image](http://nanyong.github.io/4.jpg)
