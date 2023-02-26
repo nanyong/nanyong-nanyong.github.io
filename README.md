@@ -25,9 +25,9 @@ likaiwork569@163.com
 
 0.1 工作部分成果-产品方案设计与测算-基于公开数据
 #2023-02更新
-[纯债-基金经理画像-南方基金黄斌斌.pdf](http://nanyong.github.io/同业分析-止盈投顾策略.pdf) ;
+[同业分析-目标止盈投顾策略-综述.pdf](http://nanyong.github.io/同业分析-止盈投顾策略.pdf) ;
 
-[股票-基金经理画像-樊勇.pdf](http://nanyong.github.io/同业分析-止盈投顾策略2-业绩目标回测.pdf) ;
+[同业分析-目标止盈投顾策略2-业绩目标回测.pdf](http://nanyong.github.io/同业分析-止盈投顾策略2-业绩目标回测.pdf) ;
 
 
 
