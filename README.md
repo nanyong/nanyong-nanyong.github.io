@@ -26,7 +26,7 @@ likaiwork569@163.com
 
 [纯债-基金经理画像-南方基金黄斌斌.pdf](http://nanyong.github.io/纯债-基金经理画像-南方基金黄斌斌-20230210.pdf) ;
 
-[股票-基金经理画像-樊勇.pdf](http://nanyong.github.io/股票-基金经理画像-樊勇.pdf) ;
+[股票-基金经理画像-樊勇.pdf](http://nanyong.github.io/股票-基金经理画像-樊勇-lkout.pdf) ;
 
 0.1 工作部分成果-产品方案设计与测算-基于公开数据
 
