@@ -35,7 +35,7 @@ likaiwork569@163.com
 [同业分析-目标止盈投顾策略-综述.pdf](http://nanyong.github.io/同业分析-止盈投顾策略out.pdf) ;
 
 [同业分析-目标止盈投顾策略2-业绩目标回测.pdf](http://nanyong.github.io/同业分析-止盈投顾策略2-业绩目标回测out.pdf) ;
-
+ 
 
 #### --正式入职期间工作部分成果END--####
   
