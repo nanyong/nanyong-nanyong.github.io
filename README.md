@@ -57,7 +57,9 @@ likaiwork569@163.com
   
  简易版.[风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
 
-### Project name : 三、课程论文
+### Project name :
+
+三、课程论文
 #2019-12更新
 ## Type: course project record
 
