@@ -55,7 +55,7 @@ likaiwork569@163.com
   ![image](http://nanyong.github.io/2.jpg)
   ![image](http://nanyong.github.io/4.jpg)
   
-  废弃.[风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
+ 简易版.[风险平价模型简单初测试（3天小测试，待改进）.pdf](http://nanyong.github.io/风险平价模型测试—李楷.pdf)
 
 ### Project name : 三、课程论文
 #2019-12更新
