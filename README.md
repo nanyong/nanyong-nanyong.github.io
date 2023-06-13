@@ -60,7 +60,8 @@ likaiwork569@163.com
 ### Project name : 三、课程论文
 #2019-12更新
 ## Type: course project record
-[Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf] (http://nanyong.github.io/multi-factor model based on emotion effect in Chinese Stock Market.pdf)
+
+[Application of multi-factor model based on emotion effect in Chinese Stock Market.pdf](http://nanyong.github.io/multi-factor model based on emotion effect in Chinese Stock Market.pdf)
 
 [final_project_intelligence.pdf](http://nanyong.github.io/final_project.pdf)
 
