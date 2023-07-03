@@ -9,7 +9,7 @@ likaiwork569@163.com
 
 独立整理撰写基础策略研究观点案例  #2023-06更新
 
-[基础策略研究-债市、股市回顾与展望观点.pdf](http://nanyong.github.io/月报观点过往案例.pdf) ;
+[基础策略研究-2023年5月债市、股市回顾与展望观点.pdf](http://nanyong.github.io/月报观点过往案例.pdf) ;
 
 ### Woring Project name :正在进行迭代的项目 《自动化投研系列》
 
