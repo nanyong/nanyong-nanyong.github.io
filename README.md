@@ -19,7 +19,8 @@ likaiwork569@163.com
 ![image](http://nanyong.github.io/幻灯片9.PNG)
 ![image](http://nanyong.github.io/幻灯片10.PNG)
 
-独立整理撰写基础策略研究观点案例  #2023-06更新
+
+### 独立整理撰写基础策略研究观点案例  #2023-06更新
 
 [基础策略研究-2023年5月债市、股市回顾与展望观点.pdf](http://nanyong.github.io/月报观点过往案例.pdf) ;
 
