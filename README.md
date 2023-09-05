@@ -86,7 +86,7 @@ likaiwork569@163.com
 [final-project_datasci.pdf](http://nanyong.github.io/final-project_datasci.pdf)
 
 
-------------------------------------------------------------------------------------------------------------Thanks for Viewing--------------------------------------------------------------------------------------------
-< center>
-[![Page Views Count](https://badges.toozhao.com/badges/01H9HXN2DW1WPCBWFFVRE6FZG7/blue.svg)](https://badges.toozhao.com/stats/01H9HXN2DW1WPCBWFFVRE6FZG7 "Get your own page views count badge on badges.toozhao.com")
-< /center>
+<center>         -----------------------------------------------------------Thanks for Viewing------------------------------------------------------------
+
+<center>[![Page Views Count](https://badges.toozhao.com/badges/01H9HXN2DW1WPCBWFFVRE6FZG7/blue.svg)](https://badges.toozhao.com/stats/01H9HXN2DW1WPCBWFFVRE6FZG7 "Get your own page views count badge on badges.toozhao.com")
+
