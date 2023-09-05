@@ -1,4 +1,5 @@
-# Author 作者: 李楷 Li Kai 
+# Author: Li Kai
+作者: 李楷  
 likaiwork569@163.com
 ### 擅长：量化选基 组合构建 基金研究 投研自动化 业绩归因 资产配置
 ### 已过FRM二级、CFA一级
