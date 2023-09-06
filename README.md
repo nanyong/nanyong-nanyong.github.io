@@ -10,15 +10,15 @@ likaiwork569@163.com
 ### 独立构建量化选基基金模拟组合，相较万得偏股混合基金指数885001.WI 年化收益率超额16%，且每年均超过沪深300、万得偏股混合基金。（2016年6月30日至2023年9月4日）
 
 
-![image](http://nanyong.github.io/幻灯片1.PNG)
-![image](http://nanyong.github.io/幻灯片3.PNG)
-![image](http://nanyong.github.io/幻灯片4.PNG)
-![image](http://nanyong.github.io/幻灯片5.PNG)
-![image](http://nanyong.github.io/幻灯片6.PNG)
-![image](http://nanyong.github.io/幻灯片7.PNG)
-![image](http://nanyong.github.io/幻灯片8.PNG)
-![image](http://nanyong.github.io/幻灯片9.PNG)
-![image](http://nanyong.github.io/幻灯片10.PNG)
+![image](http://nanyong.github.io/幻灯片1.jpg)
+![image](http://nanyong.github.io/幻灯片3.jpg)
+![image](http://nanyong.github.io/幻灯片4.jpg)
+![image](http://nanyong.github.io/幻灯片5.jpg)
+![image](http://nanyong.github.io/幻灯片6.jpg)
+![image](http://nanyong.github.io/幻灯片7.jpg)
+![image](http://nanyong.github.io/幻灯片8.jpg)
+![image](http://nanyong.github.io/幻灯片9.jpg)
+![image](http://nanyong.github.io/幻灯片10.jpg)
 
 
 ### 独立整理撰写基础策略研究观点案例  #2023-06更新
