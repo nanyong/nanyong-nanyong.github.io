@@ -14,9 +14,6 @@ likaiwork569@163.com
 主要优化调整为：增加了训练年限时长（提高超额和准确率），去除单一行业占比过高基金，去除定开基金，去除不能申购基金。
 
 ![image](http://nanyong.github.io/幻灯片1.jpg)
-![image](http://nanyong.github.io/幻灯片3.jpg)
-![image](http://nanyong.github.io/幻灯片4.jpg)
-![image](http://nanyong.github.io/幻灯片5.jpg)
 ![image](http://nanyong.github.io/幻灯片6.jpg)
 ![image](http://nanyong.github.io/幻灯片7.jpg)
 ![image](http://nanyong.github.io/幻灯片8.jpg)
