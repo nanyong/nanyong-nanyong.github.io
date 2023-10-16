@@ -16,9 +16,7 @@ likaiwork569@163.com
 ![image](http://nanyong.github.io/幻灯片1.jpg)
 ![image](http://nanyong.github.io/幻灯片6.jpg)
 ![image](http://nanyong.github.io/幻灯片7.jpg)
-![image](http://nanyong.github.io/幻灯片8.jpg)
-![image](http://nanyong.github.io/幻灯片9.jpg)
-![image](http://nanyong.github.io/幻灯片10.jpg)
+
 
 
 ### 独立整理撰写基础策略研究观点案例 
